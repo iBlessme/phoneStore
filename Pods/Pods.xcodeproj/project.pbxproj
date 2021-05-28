@@ -1561,7 +1561,6 @@
 		1FE1E90B879A64A9E38A72F0C5D2A451 /* testharness.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = testharness.h; path = util/testharness.h; sourceTree = "<group>"; };
 		203DCD4B24C1FBB5161F5999DAE2E308 /* FIROAuthProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIROAuthProvider.m; path = FirebaseAuth/Sources/AuthProvider/OAuth/FIROAuthProvider.m; sourceTree = "<group>"; };
 		205750EAFAAC9C6FDB232EEC1ABF89E1 /* fbase64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = fbase64.h; path = FirebaseDatabase/Sources/third_party/SocketRocket/fbase64.h; sourceTree = "<group>"; };
-		207EDC7D265001A700BAEBC2 /* PhoneStore-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PhoneStore-Bridging-Header.h"; sourceTree = "<group>"; };
 		208088C0B3B26E1729A8C4DA3E4915B5 /* FIRUserInfoImpl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRUserInfoImpl.m; path = FirebaseAuth/Sources/User/FIRUserInfoImpl.m; sourceTree = "<group>"; };
 		20A85AE8ABBD38A7B7A8F8206977E7E0 /* GoogleDataTransport.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GoogleDataTransport.modulemap; sourceTree = "<group>"; };
 		20ADE75AB1C7E5213AAB7C2F0F451924 /* FIRAuthProtoFinalizeMFAPhoneRequestInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRAuthProtoFinalizeMFAPhoneRequestInfo.h; path = FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneRequestInfo.h; sourceTree = "<group>"; };
@@ -3421,7 +3420,6 @@
 		AF08438FF208533FDC761CB2AC92BDC7 /* CoreOnly */ = {
 			isa = PBXGroup;
 			children = (
-				207EDC7D265001A700BAEBC2 /* PhoneStore-Bridging-Header.h */,
 				85580F89D9A65FB82A9C50DE64E4EC45 /* Firebase.h */,
 			);
 			name = CoreOnly;

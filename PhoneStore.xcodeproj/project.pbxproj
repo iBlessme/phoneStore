@@ -39,7 +39,6 @@
 		2008194B262DA69F00E4AF53 /* SettingStorageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingStorageViewController.swift; sourceTree = "<group>"; };
 		20222703263D7F6900638E9A /* AddPersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AddPersonViewController.swift; path = ../../AddPersonViewController.swift; sourceTree = "<group>"; };
 		202227112643C90B00638E9A /* addNewPhoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addNewPhoneViewController.swift; sourceTree = "<group>"; };
-		207EDC7A2650012800BAEBC2 /* PhoneStore-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PhoneStore-Bridging-Header.h"; sourceTree = "<group>"; };
 		207EDC802650053900BAEBC2 /* PerosnalShowTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerosnalShowTableViewController.swift; sourceTree = "<group>"; };
 		207EDC852650174400BAEBC2 /* ItemsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsTableViewController.swift; sourceTree = "<group>"; };
 		207EDC872651827800BAEBC2 /* ShopTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopTableViewController.swift; sourceTree = "<group>"; };
@@ -168,7 +167,6 @@
 				208ED5B62628781F0045B38C /* Products */,
 				D853B7EAFBFE49335F50BC04 /* Pods */,
 				239F3030D9EEC942F075EF59 /* Frameworks */,
-				207EDC7A2650012800BAEBC2 /* PhoneStore-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -504,7 +502,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = iBlessme.PhoneStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "PhoneStore-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -527,7 +524,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = iBlessme.PhoneStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "PhoneStore-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};

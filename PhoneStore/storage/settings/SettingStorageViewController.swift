@@ -24,5 +24,4 @@ class SettingStorageViewController: UIViewController {
             print("Ошибка при выходе")
         }
     }
-    
 }
